@@ -19,6 +19,7 @@ Download the datasets folder from the repository.
 ## Place the datasets folder in the Google Drive directory for Colab:
 
 Upload the datasets and secseg folder to your Google Drive.
+Unzip the secseg folder before uploading it to your google drive.
 
 Ensure the datasets and secseg folder is placed in the directory where you will be running the Colab notebook.
 
