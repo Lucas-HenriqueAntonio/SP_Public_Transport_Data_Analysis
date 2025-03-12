@@ -12,7 +12,7 @@ Navigate to the project directory:
 
 ### bash
 cd SP_Public_Transport_Data_Analysis
-## Download the datasets folder:
+## Download the datasets and Secseg folder:
 
 Download the datasets folder from the repository.
 
