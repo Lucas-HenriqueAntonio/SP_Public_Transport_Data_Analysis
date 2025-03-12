@@ -18,9 +18,9 @@ Download the datasets folder from the repository.
 
 ## Place the datasets folder in the Google Drive directory for Colab:
 
-Upload the datasets folder to your Google Drive.
+Upload the datasets and secseg folder to your Google Drive.
 
-Ensure the datasets folder is placed in the directory where you will be running the Colab notebook.
+Ensure the datasets and secseg folder is placed in the directory where you will be running the Colab notebook.
 
 ## Open the Jupyter Notebook in Google Colab:
 
