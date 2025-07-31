@@ -32,3 +32,20 @@ Open it in Google Colab [Here](https://colab.research.google.com).
 ## Run the Notebook:
 
 Follow the code blocks within the notebook to analyze the public transportation data of São Paulo.
+
+## Predictive Model
+
+A separate notebook is available to perform predictive analysis based on the public transportation dataset.
+
+To use the predictive model:
+
+1. Download the notebook named `SP_Public_Transport_Data_Analisys_prediction.ipynb` from this repository.
+
+2. Download the dataset required for the predictive model from the following link:
+[https://drive.google.com/your-dataset-link-here](https://drive.google.com/drive/folders/1EgNskZVkLbQ7Ev2rbd_Yjhj6NVZNCJdR?usp=drive_link)
+
+3. Place the downloaded dataset into the `datasets/` folder of your local project directory.
+
+4. Open and run the `SP_Public_Transport_Data_Analisys_prediction.ipynb` notebook in Google Colab or another Jupyter environment.
+
+Ensure that the dataset is properly placed in the expected directory for the notebook to run without errors.
