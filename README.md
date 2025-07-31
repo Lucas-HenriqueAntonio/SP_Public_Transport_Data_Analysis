@@ -42,7 +42,7 @@ To use the predictive model:
 1. Download the notebook named `SP_Public_Transport_Data_Analisys_prediction.ipynb` from this repository.
 
 2. Download the dataset required for the predictive model from the following link:
-[https://drive.google.com/your-dataset-link-here](https://drive.google.com/drive/folders/1EgNskZVkLbQ7Ev2rbd_Yjhj6NVZNCJdR?usp=drive_link)
+[[ttps://drive.google.com/drive/folders/1EgNskZVkLbQ7Ev2rbd_Yjhj6NVZNCJdR?usp=drive_link](https://drive.google.com/drive/folders/1EgNskZVkLbQ7Ev2rbd_Yjhj6NVZNCJdR?usp=drive_link)](h)
 
 3. Place the downloaded dataset into the `datasets/` folder of your local project directory.
 
