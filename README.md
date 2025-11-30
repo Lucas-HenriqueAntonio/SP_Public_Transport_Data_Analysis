@@ -41,11 +41,11 @@ To use the predictive model:
 
 1. Download the notebook named `SP_Public_Transport_Data_Analisys_prediction.ipynb` from this repository.
 
-2. Download the dataset required for the predictive model from the following link:
-[[ttps://drive.google.com/drive/folders/1EgNskZVkLbQ7Ev2rbd_Yjhj6NVZNCJdR?usp=drive_link](https://drive.google.com/drive/folders/1EgNskZVkLbQ7Ev2rbd_Yjhj6NVZNCJdR?usp=drive_link)]
+2. Place the downloaded dataset into the `datasets/` folder of your local project directory.
 
-3. Place the downloaded dataset into the `datasets/` folder of your local project directory.
+3. With the file in the correct location, the notebook will be able to proceed normally with the machine learning model training and the generation of the plots.
 
-4. Open and run the `SP_Public_Transport_Data_Analisys_prediction.ipynb` notebook in Google Colab or another Jupyter environment.
+If preferred, the dataset used for the predictive model can be downloaded from the following link:
+https://drive.google.com/drive/folders/1EgNskZVkLbQ7Ev2rbd_Yjhj6NVZNCJdR?usp=drive_link
 
 Ensure that the dataset is properly placed in the expected directory for the notebook to run without errors.
