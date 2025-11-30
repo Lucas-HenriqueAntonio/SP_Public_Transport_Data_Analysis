@@ -48,4 +48,6 @@ To use the predictive model:
 If preferred, the dataset used for the predictive model can be downloaded from the following link:
 https://drive.google.com/drive/folders/1EgNskZVkLbQ7Ev2rbd_Yjhj6NVZNCJdR?usp=drive_link
 
+Users who download the dataset directly may simply skip the first three code blocks and proceed straight to running the predictive model.
+
 Ensure that the dataset is properly placed in the expected directory for the notebook to run without errors.
